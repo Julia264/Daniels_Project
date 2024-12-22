@@ -1,4 +1,4 @@
-# Daniels_Project# 
+# Daniels_Project 
 
 This project is a responsive portfolio website showcasing professional skills, projects, and services. Built using modern front-end technologies, it provides an elegant and user-friendly interface for personal branding.
 
@@ -45,7 +45,7 @@ index.html                # Main HTML file
 1. Clone the repository:
    ```bash
    git clone https://github.com/julia264/Daniels_Project.git
-   cd portfolio-website
+   cd Daniels_Project
    ```
 
 2. Open `index.html` in a browser to view the website.
