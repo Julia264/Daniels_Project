@@ -1,4 +1,4 @@
-# Daniels_Project# 
+# Daniels_Project 
 
 This project is a responsive portfolio website showcasing professional skills, projects, and services. Built using modern front-end technologies, it provides an elegant and user-friendly interface for personal branding.
 
